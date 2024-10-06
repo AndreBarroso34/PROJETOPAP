@@ -1,0 +1,23 @@
+----------------PROCESSO DE INSTALAÇAO DO REACT --------------------
+1- npm install -g yarn
+2 -yarn create vite
+3- cd nomedoprojeto
+4- yarn
+5- npm install react-calendar
+6- yarn dev (para dar run)
+
+
+
+--------------- ADICIONAR EXTENSAO VSCODE ---------
+
+ES7 React/Redux/GraphQL/React-Native snippets
+
+No App.tsx escrever : rafce (para criar componente da App)
+Remover " import React from 'react' "
+
+
+
+--------------- Boxicoins-------------
+Plataforma para buscar icons
+
+
