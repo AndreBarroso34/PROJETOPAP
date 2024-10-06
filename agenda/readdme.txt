@@ -27,4 +27,7 @@ Plataforma para buscar icons
 git init 
 git add .
 git commit -m "atualizacao"
+git remote add origin https://github.com/AndreBarroso34/PROJETOPAP.git
+git push -u origin master
+
 ....
