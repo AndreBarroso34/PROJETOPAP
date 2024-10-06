@@ -21,3 +21,9 @@ Remover " import React from 'react' "
 Plataforma para buscar icons
 
 
+
+
+--------------- Salvar no repositorio --------------- 
+git init 
+git add .
+git commit -m "atualizacao"
